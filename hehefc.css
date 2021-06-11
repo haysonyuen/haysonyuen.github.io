@@ -156,7 +156,7 @@ tr td img {
     padding: 0 4px;
 }
 
-@media screen and (min-width: 500px){
+@media screen and (min-width: 600px){
 	.moments{
 		width: 40%;
 		display: inline-block;
@@ -191,7 +191,7 @@ tr td img {
 
 }
 
-@media screen and (min-width:700px){
+@media screen and (min-width:800px){
 	aside{
 		width:30%;
 	}
@@ -205,7 +205,7 @@ tr td img {
 }
  
 
-@media screen and (max-width:500px){
+@media screen and (max-width:600px){
 	.left{
 		display: none;
 	}
